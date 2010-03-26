@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "rack-middleware-glitch"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{rack middleware to corrupt jpeg image}
+    gem.description = %Q{rack middleware to corrupt jpeg image}
     gem.email = "youpy@buycheapviagraonlinenow.com"
     gem.homepage = "http://github.com/youpy/rack-middleware-glitch"
     gem.authors = ["youpy"]

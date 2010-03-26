@@ -1,6 +1,12 @@
 = rack-middleware-glitch
 
-Description goes here.
+rack middleware to corrupt jpeg image
+
+== Synopsis
+
+ require 'rack-middleware-glitch'
+
+ use Rack::Glitch
 
 == Note on Patches/Pull Requests
  
