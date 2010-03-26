@@ -2,6 +2,16 @@
 
 rack middleware to corrupt jpeg image
 
+== Installation
+
+=== Archive Installation
+
+ rake install
+
+=== Gem Installation
+
+ gem install rack-middleware-glitch
+
 == Synopsis
 
  require 'rack-middleware-glitch'
